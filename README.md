@@ -1,10 +1,10 @@
 # whatamieating?
 
-#### Try to outperform the state-of-the-art (possibly?) model's accuracy on the Food101 dataset of 77.4% [1] and 56.40% [2].
+#### Try to build a decent model based on the Food101 dataset and beat the accuracies of 77.4% [1] and 56.40% [2]. 🤷
 
 * Uses Tensorflow and EfficientNetV2_B0
 * Trained on the entire dataset with 101 classes
-* Try to follow deep learning best practices (lol)
+* Try to follow ML best practices (lol)
 
 ## Results
 
